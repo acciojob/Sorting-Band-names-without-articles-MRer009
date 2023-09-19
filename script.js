@@ -1,4 +1,4 @@
-let bandNames = ['The Virupaksha Temple', 'Victoria Memorial', 'Tajmahal'];
+let touristSpots = ['The Virupaksha Temple', 'Victoria Memorial', 'Tajmahal'];
 
 // function removeArticles(name) {
 //     return name.replace(/^(a |an |the )/i, '');
